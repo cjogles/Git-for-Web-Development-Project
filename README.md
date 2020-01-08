@@ -31,7 +31,7 @@ In order to do this, you **do not** need to create new forks of these projects. 
   - [x] Add your TL as a reviewer on the Pull-Request
 - [x] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
-## Stretch
+## Stretch Learn some git
 - [x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
   - [x] Research and understand what a `merge conflict` is and how to resolve it.
   - [x] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
